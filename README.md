@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**Makata1962/Makata1962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Ilia! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Junior React Developer currently looking for a job. I have experience with HTML, CSS, Sass, Git, GitHub, JavaScript, TypeScript, and React, and I'm also familiar with Angular.
+
+I'm very passionate about these technologies and I'm eager to learn them at a more advanced level in order to deepen my knowledge. Ultimately, my goal is to become a Software Engineer and create awesome software. 💻🚀
+
+## Skills 💪
+
+-   HTML 🌐
+-   CSS 🎨
+-   Sass 🎀
+-   Git 🐙
+-   GitHub 🌟
+-   JavaScript 📜
+-   TypeScript 📜
+-   React ⚛️
+
+I'm motivated to pursue a career as a Software Engineer because I'm passionate about creating innovative software solutions that can make people's lives better. I believe that technology can be used to solve real-world problems and improve people's quality of life, and I'm excited about the opportunities that a career in software engineering can offer. 🔍
+
+My goal is to become a Software Engineer. I'm constantly learning and improving my skills, and I'm excited about the opportunities that the tech industry has to offer. I'm always on the lookout for new challenges and opportunities to learn, and I'm committed to honing my skills and becoming the best software engineer that I can be. 🚀
+
+## Contact Me 📬
+
+If you're interested in learning more about me or my work, please don't hesitate to get in touch. You can reach me at [insert your email here] 📧 or connect with me on [insert your LinkedIn profile link here] 👨‍💼. I'd love to chat! 😊
