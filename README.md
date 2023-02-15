@@ -23,4 +23,4 @@ My goal is to become a Software Engineer. I'm constantly learning and improving 
 
 ## Contact Me 📬
 
-If you're interested in learning more about me or my work, please don't hesitate to get in touch. You can reach me at [insert your email here] 📧 or connect with me on [insert your LinkedIn profile link here] 👨‍💼. I'd love to chat! 😊
+If you're interested in learning more about me or my work, please don't hesitate to get in touch. You can reach me at il.pachulia@gmail.com 📧 or connect with me on https://www.linkedin.com/in/iliapachulia/ 👨‍💼. I'd love to chat! 😊
