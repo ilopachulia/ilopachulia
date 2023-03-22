@@ -2,7 +2,7 @@
 
 # Hi, I'm Ilia! 👋
 
-I'm a Junior React Developer currently looking for a job. I have experience with HTML, CSS, Sass, Git, GitHub, JavaScript, TypeScript, and React, and I'm also familiar with Angular.
+I'm a React Developer currently looking for a job. I have experience with HTML, CSS, Sass, Git, GitHub, JavaScript, TypeScript, and React, and I'm also familiar with Angular.
 
 I'm very passionate about these technologies and I'm eager to learn them at a more advanced level in order to deepen my knowledge. Ultimately, my goal is to become a Software Engineer and create awesome software. 💻🚀
 
